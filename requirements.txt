@@ -1,0 +1,4 @@
+**This file tells which libraries to install.**
+flask
+**If you need to generate this file automatically, run:**
+pip freeze > requirements.txt
